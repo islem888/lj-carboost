@@ -8,6 +8,8 @@
 | Join my discord server [here](https://discord.gg/dVxqtBCT) |
 | ------------------------------------------------------------ |
 
+change name ds-carboost to lj-carboost
+
 ## Dependencies
 
 1. boostinghack from Lionh34rt [here](https://github.com/Lionh34rt/boostinghack.git)
